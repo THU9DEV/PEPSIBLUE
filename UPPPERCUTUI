@@ -471,14 +471,14 @@ local library = {
 	subs = {},
 	colored = {},
 	configuration = {
-		hideKeybind = Enum.KeyCode.RightShift,
+		hideKeybind = Enum.KeyCode.RightControl,
 		smoothDragging = false,
 		easingStyle = Enum.EasingStyle.Quart,
 		easingDirection = Enum.EasingDirection.Out
 	},
 	colors = {
 		main = Color3.fromRGB(42, 38, 255),
-		background = Color3.fromRGB(42, 38, 255),
+		background = Color3.fromRGB(6, 8, 41),
 		outerBorder = Color3.fromRGB(53, 67, 240),
 		innerBorder = Color3.fromRGB(0, 178, 255),
 		topGradient = Color3.fromRGB(35, 35, 35),
